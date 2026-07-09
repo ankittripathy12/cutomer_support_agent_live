@@ -72,7 +72,7 @@ The architecture consists of:
 # 📸 Dashboard Preview
 
 <p align="center">
-<img src="screenshots/dashboard.png" width="95%">
+<img src="dashboard.png" width="95%">
 </p>
 
 <p align="center">
