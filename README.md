@@ -571,7 +571,7 @@ Supported services:
 ## Dashboard
 
 ```text
-screenshots/dashboard.png
+dashboard.png
 ```
 
 ## Architecture
