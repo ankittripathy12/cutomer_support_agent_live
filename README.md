@@ -571,7 +571,7 @@ Supported services:
 ## Dashboard
 
 ```text
-dashboard.png
+![Dashboard](dashboard.png)
 ```
 
 ## Architecture
