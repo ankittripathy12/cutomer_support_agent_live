@@ -570,9 +570,9 @@ Supported services:
 
 ## Dashboard
 
-```text
-![Dashboard](dashboard.png)
-```
+<p align="center">
+  <img src="./screenshots/dashboard.png" alt="Support Copilot Dashboard" width="95%">
+</p>
 
 ## Architecture
 
